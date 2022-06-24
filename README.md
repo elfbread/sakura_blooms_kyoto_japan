@@ -43,7 +43,7 @@ Features used:
 
 1. Loading data. Two CSVs are loaded into Python (bloom dates dataset and average temperature dataset).
 2. Clean data, merge in pandas, and calculate a new value. Datasets were cleaned (missing values dropped, columns dropped), a left merge using pandas was implemented using the shared field "Year", and a new value was calculated (category assignment based on temperature: "Low", "Medium", "High").
-3. Tableau Dashboard was created. ![Sakura Blooms in Kyoto Dashboard](https://public.tableau.com/views/SakuraBloomsinKyotoProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
+3. Tableau Dashboard was created. [Sakura Blooms in Kyoto Dashboard](https://public.tableau.com/views/SakuraBloomsinKyotoProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 4. Virtual environment with instructions. A virtual environment was utilized and instructions on how to utilize it are provided in this README. A requirements.txt file is also included to install necessary packages and dependencies.
 5. Annotations in Jupyter Notebook. The main.ipynb file includes annotations on the purpose of the code blocks.
 6. Detailed README file with formatting. This README has been formatted using GitHub markup. 
