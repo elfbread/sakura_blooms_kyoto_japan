@@ -41,6 +41,8 @@ Navigate to the folder and open main.ipynb with VS Code. Be sure to update the k
 
 Features used:
 
+****** NOTE: I have changed my project since submitting my project brief in mid-June 2022 ******
+
 1. __Loading data.__ Two CSVs are loaded into Python (bloom dates dataset and average temperature dataset).
 2. __Clean data, merge in pandas, and calculate a new value.__ Datasets were cleaned (missing values dropped, columns dropped), a left merge using pandas was implemented using the shared field "Year", and a new value was calculated (category assignment based on temperature: "Low", "Medium", "High").
 3. __Tableau Dashboard was created.__ [Sakura Blooms in Kyoto Dashboard](https://public.tableau.com/views/SakuraBloomsinKyotoProject/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
