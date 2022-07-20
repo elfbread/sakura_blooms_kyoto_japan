@@ -37,6 +37,8 @@ To activate venv:
  
 Navigate to the folder and open main.ipynb with VS Code. Be sure to update the kernel in the upper right of VS Code (as shown in the screenshot below).The file imports uses public CSVs saved in my Google Sheets account, a work around for users utilizing different operating systems (not having to adjust the import statement/file path).
 
+![Juypter Notebook](https://github.com/elfbread/pyAirports/raw/main/kernel.png)
+
 # Let's talk project requirements:
 
 Features used:
